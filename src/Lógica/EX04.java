@@ -1,6 +1,6 @@
 /*4. Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
 calcule a seguinte expressão: D = (R +S/2), onde R=(A+B)^2  S=(B+C)^2*/
-package exercicios;
+package Lógica;
 
 import java.util.Scanner;
 import java.lang.Math;
@@ -24,3 +24,4 @@ public class EX04 {
 		
 	}
 }
+

@@ -2,7 +2,8 @@
 segundo mostrado: x = (ce-bf)/(ae - bd)  y = (af-cd)/(ae - bd).
 Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
 valores de x e y. */
-package exercicios;
+
+package Lógica;
 
 import java.util.Scanner;
 

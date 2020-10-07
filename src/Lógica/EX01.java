@@ -1,8 +1,8 @@
 /*1. Faça um sistema que leia a idade de uma pessoa expressa em anos, meses e 
 dias e mostre-a expressa apenas em dias.*/
-package exercicios;
+package Lógica;
 
-import java.util.Scanner;
+import java.util.*;
 
 
 public class EX01 {

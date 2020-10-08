@@ -14,6 +14,7 @@ public class EX02 {
 		@SuppressWarnings("resource")
 		Scanner ler = new Scanner(System.in);
 		int N, E;
+		@SuppressWarnings("unused")
 		String C;
 		System.out.printf("Digite seu código: ");
 		C = ler.nextLine();

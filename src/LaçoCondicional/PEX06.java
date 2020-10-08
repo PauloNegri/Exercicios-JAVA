@@ -5,11 +5,13 @@ Infantil B = 8 a 11 anos
 Juvenil A = 12 a 13 anos
 Juvenil B = 14 a 17 anos
 Adultos = Maiores de 18 anos*/
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.Scanner;
 
-public class EX06 {
+
+public class PEX06 {
+
 	public static void main (String args[])
 	{
 		@SuppressWarnings("resource")

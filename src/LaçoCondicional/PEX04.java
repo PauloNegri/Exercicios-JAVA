@@ -1,10 +1,10 @@
 /*4-Faça um sistema que leia um número inteiro e mostre uma mensagem indicando se este
 número é par ou ímpar, e se é positivo ou negativo.*/
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.Scanner;
 
-public class EX04 {
+public class PEX04 {
 	public static void main (String args[])
 	{
 		@SuppressWarnings("resource")

@@ -1,11 +1,11 @@
 /*8 -Construa um sistema para ler uma variável numérica N e imprimi-la somente se a mesma
 for maior que 100, caso contrário imprimi-la com o valor zero.*/
 
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.Scanner;
 
-public class EX08 {
+public class PEX08 {
 	public static void main (String args[])
 		{
 			@SuppressWarnings("resource")

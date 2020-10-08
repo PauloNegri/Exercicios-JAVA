@@ -4,11 +4,12 @@ por hora. Quando o número de horas exceder a 50 calcule o excesso de pagamento
 armazenando-o na variável E, caso contrário zerar tal variável. A hora excedente de
 trabalho vale R$ 20,00. No final do processamento imprimir o salário total e o salário
 excedente.*/
-package LaçoCondicionalPortugol;
 
+package LaçoCondicional;
 import java.util.Scanner;
 
-public class EX02 {
+
+public class PEX02 {
 	public static void main(String args[])
 	{
 		@SuppressWarnings("resource")

@@ -6,11 +6,11 @@ R$ 4,00 por quilo excedente. João precisa que você faça um sistema que leia a va
 variável M o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis
 com o conteúdo ZERO.*/
 
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.Scanner;
 
-public class EX01 {
+public class PEX01 {
 	public static void main (String args[])
 	{
 		@SuppressWarnings("resource")

@@ -6,11 +6,11 @@ intimadas a suspenderem suas atividades, se o índice atingir 0,5 todos os grupos
 notificados a paralisarem suas atividades. Faça um sistema que leia o índice de poluição
 medido e emita a notificação adequada aos diferentes grupos de empresas.*/
 
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.Scanner;
 
-public class EX05 {
+public class PEX05 {
 	public static void main (String args[])
 	{
 		@SuppressWarnings("resource")

@@ -4,11 +4,12 @@
 Se o valor resultante do quadrado do terceiro for >= 1000, imprima-o e finalize;
 Caso contrário, imprima os valores lidos e seus respectivos quadrados.*/
 
-package LaçoCondicionalPortugol;
+package LaçoCondicional;
 
 import java.util.*;
 
-public class EX03 {
+
+public class PEX03 {
 	public static void main (String args[])
 	{
 		@SuppressWarnings("resource")

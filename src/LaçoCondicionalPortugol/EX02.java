@@ -14,10 +14,9 @@ public class EX02 {
 		@SuppressWarnings("resource")
 		Scanner ler = new Scanner(System.in);
 		int N, E;
-		@SuppressWarnings("unused")
-		double C;
-		System.out.println("Digite seu código: ");
-		C = ler.nextDouble();
+		String C;
+		System.out.printf("Digite seu código: ");
+		C = ler.nextLine();
 		System.out.println("Digite quantas horas foram trabalhadas nesse mês: ");
 		N = ler.nextInt();
 		if(N > 50) {

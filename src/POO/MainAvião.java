@@ -5,12 +5,9 @@ package POO;
 
 public class MainAvião {
 	public static void main (String[] args) { 
-		Avião meuVoo = new Avião();
-		meuVoo.modelo = "527";
-		meuVoo.numeroAtual = 50;
-		meuVoo.numeroMax = 700;
-		
+		Avião meuVoo = new Avião("527",50,700);
 		meuVoo.passageiros(650);
-		System.out.println(meuVoo.numeroAtual);
+		
+		System.out.println("O número de passageiros é de "+ meuVoo.getNumeroAtual());
 	}
 }
